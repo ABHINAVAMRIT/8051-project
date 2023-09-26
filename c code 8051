@@ -1,14 +1,4 @@
 
-/*
-**************************************************************************************************************
-AUTHOR: PUSHKAL AGARWAL
-ROLL NUMBER:	2001034
-INSTITUTE:	INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, BHAGALPUR
-DEPARTMENT:	ELECTRONICS AND COMMUNICATION ENGINEERING
-DATE:	20-11-2022
-
-**************************************************************************************************************
-*/
 
 #include <reg51.h>
 #define port P0;
